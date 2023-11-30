@@ -2,6 +2,8 @@
 
 Gas Station Finder is an application I created 2 years ago during the winter holidays with the purpose of learning Go. It is designed to find gas stations along a route or between cities, and order them by price. It only works with Spain gas stations but it can be extended to any country.
 
+![A sample UI](gas_prices_ui.png?raw=true "A sample UI")
+
 ## Overview
 
 There are several main components:
